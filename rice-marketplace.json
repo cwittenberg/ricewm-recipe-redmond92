@@ -1,0 +1,48 @@
+{
+  "schema": "ricewm.recipe-marketplace/v1",
+  "name": "Redmond '92",
+  "version": "1.0.0",
+  "summary": "Redmond '92, faintly reminiscent of Windows 3.11",
+  "license": "CC0-1.0",
+  "credits": "Anonymous",
+  "artifact": {
+    "path": "look-agent-redmond-92.rice.json",
+    "bytes": 226235,
+    "sha256": "d76379f5b3342c3c9b754eb4fa3e3e33ae0fdf40c3c014eb8a6465f3c9ad9da2"
+  },
+  "media": [
+    {
+      "role": "icon",
+      "path": "media/icon.webp",
+      "alt": "Redmond '92 recipe icon",
+      "width": 256,
+      "height": 256,
+      "license": "MIT",
+      "credits": "Original RiceWM sharing icon.",
+      "sha256": "1adbb86bc8f3498d44b0806adb5e18997d45371ae367fcada28ff55ed45f7dbb",
+      "bytes": 3402
+    },
+    {
+      "role": "screenshot",
+      "path": "media/screenshot-1.webp",
+      "alt": "Redmond '92 — desktop capture with sharing dialogs and menus omitted.",
+      "width": 1864,
+      "height": 899,
+      "license": "Depicted assets retain their original licences",
+      "credits": "RiceWM desktop capture. Wallpaper and other artwork credits are retained in the recipe.",
+      "sha256": "fbde7ddd949df22c99099d01a6a0042db7f6dc69accd7f117f6f42382ceed1d6",
+      "bytes": 1710690
+    },
+    {
+      "role": "screenshot",
+      "path": "media/screenshot-2.webp",
+      "alt": "Redmond '92 — Screenshot From 2026-10-24 22-36-34.png",
+      "width": 1861,
+      "height": 901,
+      "license": "Depicted assets retain their original licences",
+      "credits": "Screenshot provided by the publisher. Depicted assets retain their original licences.",
+      "sha256": "fb5fac92a456fa630bf7ae1d3143ac37e97a9cefe2aa0be6d8cd91ab4c919c20",
+      "bytes": 702582
+    }
+  ]
+}

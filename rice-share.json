@@ -1,0 +1,6 @@
+{
+  "schema": "ricewm.shared-rice/v1",
+  "kind": "recipe",
+  "package": "look-agent-redmond-92.rice.json",
+  "sha256": "d76379f5b3342c3c9b754eb4fa3e3e33ae0fdf40c3c014eb8a6465f3c9ad9da2"
+}
